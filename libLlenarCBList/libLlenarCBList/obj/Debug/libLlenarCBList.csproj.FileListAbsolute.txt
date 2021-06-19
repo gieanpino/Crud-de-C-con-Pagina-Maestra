@@ -1,0 +1,22 @@
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libLlenarCBList.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libLlenarCBList.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libConexionBD.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libParametros.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libConexionBD.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libParametros.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csprojAssemblyReference.cache
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.CoreCompileInputs.cache
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.CopyComplete
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\bin\Debug\libLlenarCBList.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\bin\Debug\libLlenarCBList.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\bin\Debug\libConexionBD.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\bin\Debug\libParametros.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\bin\Debug\libConexionBD.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\bin\Debug\libParametros.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.AssemblyReference.cache
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.CoreCompileInputs.cache
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.CopyComplete
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.pdb

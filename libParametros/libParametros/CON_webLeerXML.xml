@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Parametros><!--Parametros para la conexion a base de datos-->
+  <Servicor>DESKTOP-TU41IOP</Servicor>
+  <BaseDatos></BaseDatos>
+  <Usuario></Usuario>
+  <Clave></Clave>
+  <SeguridadIntegrada>Si</SeguridadIntegrada><!--si:windows autentication -->
+</Parametros>

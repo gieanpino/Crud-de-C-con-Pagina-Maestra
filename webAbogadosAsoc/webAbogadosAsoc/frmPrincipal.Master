@@ -1,0 +1,102 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="frmPrincipal.Master.cs" Inherits="webAbogadosAsoc.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 98%;
+        }
+        .auto-style2 {
+            width: 100%;
+        }
+        .auto-style3 {
+            text-align: center;
+            color: #009999;
+            font-size: x-large;
+        }
+        .auto-style4 {
+            text-align: center;
+            color: #009999;
+        }
+        .auto-style5 {
+            font-size: xx-large;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+            <table align="center" class="auto-style1">
+                <tr>
+                    <td style="width: 20%">
+                        <asp:Image ID="Image1" runat="server" ImageUrl="~/Imagenes/LogoAA.jpg" />
+                    </td>
+                    <td>
+                        <asp:ContentPlaceHolder ID="Encabezado" runat="server">
+                            <table align="center" class="auto-style2">
+                                <tr>
+                                    <td class="auto-style3"><strong>Encabezado</strong></td>
+                                </tr>
+                            </table>
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="Menu" runat="server">
+                            <table align="center" class="auto-style2">
+                                <tr>
+                                    <td class="auto-style4">
+                                        <asp:TreeView ID="trvMenuPpal" runat="server" BackColor="White" BorderColor="#3366FF" BorderStyle="None" BorderWidth="1px" ForeColor="#009999" OnSelectedNodeChanged="trvMenuPpal_SelectedNodeChanged">
+                                            <HoverNodeStyle BackColor="#0066FF" BorderColor="#009999" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" ForeColor="#666666" />
+                                            <LeafNodeStyle HorizontalPadding="12px" />
+                                            <Nodes>
+                                                <asp:TreeNode NavigateUrl="frmInicio.aspx" Text="Inicio" Value="mnuInicio"></asp:TreeNode>
+                                                <asp:TreeNode Text="Actividades" Value="mnuActividades">
+                                                    <asp:TreeNode NavigateUrl="frmCaso.aspx" Text="Casos" Value="opcCasos"></asp:TreeNode>
+                                                </asp:TreeNode>
+                                                <asp:TreeNode Text="Maestros" Value="mnuMaestros">
+                                                    <asp:TreeNode NavigateUrl="frmCliente.aspx" Text="Cliente" Value="opcCliente"></asp:TreeNode>
+                                                    <asp:TreeNode NavigateUrl="frmAsociado.aspx" Text="Asociado" Value="opcAsociado"></asp:TreeNode>
+                                                    <asp:TreeNode NavigateUrl="frmTipoCaso.aspx" Text="Tipo Caso" Value="opcTipoCaso"></asp:TreeNode>
+                                                    <asp:TreeNode NavigateUrl="frmClasifTipoCaso.aspx" Text="Clasificación Tipo " Value="opcClasifTipCasos"></asp:TreeNode>
+                                                    <asp:TreeNode NavigateUrl="frmTipoDoc.aspx" Text="Tipo Documento" Value="opcTipoDoc"></asp:TreeNode>
+                                                    <asp:TreeNode NavigateUrl="frmSeguimiento.aspx" Text="Seguimientos" Value="opcSeguim"></asp:TreeNode>
+                                                    <asp:TreeNode NavigateUrl="frmPreliminar.aspx" Text="Preliminares" Value="opcPrelim"></asp:TreeNode>
+                                                </asp:TreeNode>
+                                            </Nodes>
+                                        </asp:TreeView>
+                                    </td>
+                                </tr>
+                            </table>
+                        </asp:ContentPlaceHolder>
+                    </td>
+                    <td>
+                       
+                        <asp:ContentPlaceHolder ID="Cuerpo" runat="server">
+                            <asp:ScriptManager ID="ScriptManager1" runat="server">
+                            </asp:ScriptManager>
+                            <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                                <ContentTemplate>
+                                    
+                                </ContentTemplate>
+                            </asp:UpdatePanel>
+                            <br />
+                        </asp:ContentPlaceHolder>
+                       
+                    </td>
+                </tr>
+            </table>
+            
+        </div>
+    </form>
+</body>
+</html>

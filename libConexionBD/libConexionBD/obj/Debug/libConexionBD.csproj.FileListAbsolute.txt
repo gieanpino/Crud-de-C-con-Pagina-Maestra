@@ -1,0 +1,12 @@
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libConexionBD\libConexionBD\bin\Debug\libConexionBD.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libConexionBD\libConexionBD\bin\Debug\libConexionBD.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libConexionBD\libConexionBD\bin\Debug\libParametros.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libConexionBD\libConexionBD\bin\Debug\libParametros.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.csproj.CoreCompileInputs.cache
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.csproj.CopyComplete
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libConexionBD\libConexionBD\obj\Debug\libConexionBD.csproj.AssemblyReference.cache
+D:\Desarrollo de sofware\Practica 5\Guia 5\libConexionBD\libConexionBD\obj\Debug\libConexionBD.csproj.CoreCompileInputs.cache
+D:\Desarrollo de sofware\Practica 5\Guia 5\libConexionBD\libConexionBD\obj\Debug\libConexionBD.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libConexionBD\libConexionBD\obj\Debug\libConexionBD.pdb

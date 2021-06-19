@@ -1,0 +1,20 @@
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\bin\Debug\libLlenarRBList.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\bin\Debug\libLlenarRBList.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\bin\Debug\libConexionBD.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\bin\Debug\libParametros.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\bin\Debug\libConexionBD.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\bin\Debug\libParametros.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\obj\Debug\libLlenarRBList.csproj.CoreCompileInputs.cache
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\obj\Debug\libLlenarRBList.csproj.CopyComplete
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\obj\Debug\libLlenarRBList.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libLlenarRBList\libLlenarRBList\obj\Debug\libLlenarRBList.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\bin\Debug\libLlenarRBList.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\bin\Debug\libLlenarRBList.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\bin\Debug\libConexionBD.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\bin\Debug\libParametros.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\bin\Debug\libConexionBD.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\bin\Debug\libParametros.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\obj\Debug\libLlenarRBList.csproj.CoreCompileInputs.cache
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\obj\Debug\libLlenarRBList.csproj.CopyComplete
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\obj\Debug\libLlenarRBList.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libLlenarRBList\libLlenarRBList\obj\Debug\libLlenarRBList.pdb

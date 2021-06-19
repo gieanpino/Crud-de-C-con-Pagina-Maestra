@@ -1,0 +1,11 @@
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libParametros\libParametros\bin\Debug\libParametros.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libParametros\libParametros\bin\Debug\libParametros.pdb
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.csprojAssemblyReference.cache
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.csproj.CoreCompileInputs.cache
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.dll
+F:\__________Academico\ITM\DlloSw\Practicas\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libParametros\libParametros\bin\Debug\libParametros.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libParametros\libParametros\bin\Debug\libParametros.pdb
+D:\Desarrollo de sofware\Practica 5\Guia 5\libParametros\libParametros\obj\Debug\libParametros.csproj.CoreCompileInputs.cache
+D:\Desarrollo de sofware\Practica 5\Guia 5\libParametros\libParametros\obj\Debug\libParametros.dll
+D:\Desarrollo de sofware\Practica 5\Guia 5\libParametros\libParametros\obj\Debug\libParametros.pdb
